@@ -19,10 +19,10 @@ login/password pour la démo
 
 ## Links
 
-- [ ] [Lien Figma](https://www.figma.com/)
-- [ ] [Lien whimsical](https://whimsical.com/)
-- [ ] [BDD](https://kitt.lewagon.com/db)
-- [ ] [Trello](https://trello.com/)
+- [Lien Figma](https://www.figma.com/)
+- [Lien whimsical](https://whimsical.com/)
+- [BDD](https://kitt.lewagon.com/db)
+- [Trello](https://trello.com/)
 
 
 
