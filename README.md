@@ -21,8 +21,7 @@ login/password pour la démo
 
 Lien Figma ou Whimesical
 
-##Github
-
+##Add
 
 Pouvez-vous ajouter en tant que collaborateurs sur Heroku Github.
 
