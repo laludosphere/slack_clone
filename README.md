@@ -21,11 +21,6 @@ login/password pour la démo
 
 Lien Figma ou Whimesical
 
-## Trello
-
-Lien Trello
-
-
 ##Github
 
 
