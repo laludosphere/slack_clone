@@ -16,6 +16,29 @@ rails db:drop db:create db:migrate db:seeds
 Lien Heroku
 login/password pour la démo
 
+
 ## Maquettes
 
 Lien Figma ou Whimesical
+
+## Trello
+
+Lien Trello
+
+##Github
+
+Pouvez-vous ajouter en tant que collaborateurs sur Heroku Github.
+Remi / Alex / Simon / Ludo :
+Alex : alexandre.b2506+heroku@gmail.com
+Pseudo github : alexandrebk
+
+Rémi : carette.remi@gmail.com
+Pseudo github :  remicarette
+
+Simon : Simon.chretien62@gmail.com
+Pseudo github : simonchrt
+
+Ludo : ludovicfourcroy8@gmail.com
+Pseudo: ludovicfourcroy
+
+Pouvez-vous autoriser l'accès à Trello, Wimishcal et Figma
