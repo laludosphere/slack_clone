@@ -21,6 +21,8 @@ login/password pour la démo
 
 Lien Figma ou Whimesical
 
+Lien vers la BDD (https://kitt.lewagon.com/db)
+
 ## Add
 
 Pouvez-vous ajouter en tant que collaborateurs sur Heroku Github.
