@@ -1,5 +1,7 @@
 # Titre du projet
 
+Description du projet
+
 ## Setup
 
 - Version de Ruby
