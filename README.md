@@ -25,10 +25,14 @@ Lien Figma ou Whimesical
 
 Lien Trello
 
+
 ##Github
 
+
 Pouvez-vous ajouter en tant que collaborateurs sur Heroku Github.
+
 Remi / Alex / Simon / Ludo :
+
 Alex : alexandre.b2506+heroku@gmail.com
 Pseudo github : alexandrebk
 
