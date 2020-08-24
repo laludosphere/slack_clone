@@ -19,9 +19,9 @@ login/password pour la démo
 
 ## Maquettes
 
-[text](url)Lien Figma ou Whimesical
+[https://www.figma.com/](url) ou [https://whimsical.com/](url)
 
-[text](url)Lien vers la BDD (https://kitt.lewagon.com/db)
+[https://kitt.lewagon.com/db](url) BDD
 
 ## Add
 
