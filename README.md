@@ -17,11 +17,14 @@ Lien Heroku
 login/password pour la démo
 
 
-## Maquettes
+## Links
 
-[https://www.figma.com/](url) ou [https://whimsical.com/](url)
+- [ ] [Lien Figma](https://www.figma.com/)
+- [ ] [Lien whimsical](https://whimsical.com/)
+- [ ] [BDD](https://kitt.lewagon.com/db)
+- [ ] [Trello](https://trello.com/)
 
-[https://kitt.lewagon.com/db](url) BDD
+
 
 ## Add
 
